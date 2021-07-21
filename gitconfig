@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	name = Pierre Richemond
+	email = pierreambroise@hotmail.fr
